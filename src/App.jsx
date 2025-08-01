@@ -9,8 +9,7 @@ function App(){
     <>
     <Navigation></Navigation>
     <Hero></Hero>
-    <New></New>
-    <AgainCheck></AgainCheck>
+    
     </>
     
   ) 
